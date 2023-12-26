@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HenryLuong8888/HenryLuong8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey! 👋, I am Henry Luong
+# Hi! 👋, I am Henry Luong
 > Passionate 3<sup>rd</sup> year student @ Seneca College, Toronto ON | Learning DSA, Elastic, Data Science, Machine Learning, open source, and DevOps
 
 <div align="center">
