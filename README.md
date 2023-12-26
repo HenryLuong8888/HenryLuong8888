@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Hi! 👋, I am Henry Luong
+
+
 > Passionate 3<sup>rd</sup> year student @ Seneca College, Toronto ON | Learning DSA, Elastic, Data Science, Machine Learning, open source, and DevOps
 
 <div align="center">
